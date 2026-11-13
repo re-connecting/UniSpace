@@ -1,0 +1,6 @@
+{
+  "name": "UniSpace",
+  "description": "Smart Campus Study Space Discovery and Reservation System for university students, lecturers, and administrators.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
